@@ -90,15 +90,6 @@ public struct Money {
     }
     
 }
-//
-//let tenUSD = Money(amount: 10, currency: "USD")
-//let gbp = tenUSD.convert("GBP")
-//print(tenUSD)
-//print(gbp.amount)
-//print(gbp.currency == "GBP")
-//print(gbp.amount == 5)
-//
-//
 
 //////////////////////////////////
 // Job
@@ -135,12 +126,6 @@ open class Job {
     }
   }
 }
-let job = Job(title: "Janitor", type: Job.JobType.Hourly(15.0))
-print(job.calculateIncome(10) == 150)
-
-job.raise(1.0)
-print(job.calculateIncome(10))
-print(job.calculateIncome(10) == 160)
 
 //
 //////////////////////////////////////

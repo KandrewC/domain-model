@@ -71,52 +71,6 @@
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "SimpleDomainModel/main.swift"
-            timestampString = "498524224.778123"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "101"
-            endingLineNumber = "101">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "SimpleDomainModel.Job.__deallocating_deinit"
-                  moduleName = "SimpleDomainModel"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/aKan/Documents/code/uwsimpledomainmodel/SimpleDomainModel/SimpleDomainModel/main.swift"
-                  timestampString = "498293071.307984"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "0"
-                  endingLineNumber = "0"
-                  offsetFromSymbolStart = "4">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "SimpleDomainModel.Job.deinit"
-                  moduleName = "SimpleDomainModel"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/aKan/Documents/code/uwsimpledomainmodel/SimpleDomainModel/SimpleDomainModel/main.swift"
-                  timestampString = "498293071.310941"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "0"
-                  endingLineNumber = "0"
-                  offsetFromSymbolStart = "4">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
             filePath = "SimpleDomainModelTests/MoneyTests.swift"
             timestampString = "498524425.897874"
             startingColumnNumber = "9223372036854775807"
