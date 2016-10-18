@@ -7,8 +7,8 @@
 //
 
 import XCTest
-
 import SimpleDomainModel
+
 
 //////////////////
 // MoneyTests
@@ -33,8 +33,6 @@ class MoneyTests: XCTestCase {
   
   func testUSDtoGBP() {
     let gbp = tenUSD.convert("GBP")
-    print(tenUSD)
-    print(gbp.amount)
     XCTAssert(gbp.currency == "GBP")
     XCTAssert(gbp.amount == 5)
   }

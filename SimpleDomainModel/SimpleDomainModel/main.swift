@@ -33,10 +33,7 @@ public struct Money {
     switch currency {
     case "USD" :
         if to == "GBP" {
-            
             newAmount = amount / 2
-            print("AMOUNT \(amount) " )
-            print("NEW AMOUNT \(newAmount) " )
         }
         if to == "EUR" {
             newAmount = amount * 3 / 2
@@ -216,8 +213,7 @@ open class Family {
     }
     return canHaveKids
   }
-//    //what is legal for 21???
-//
+
   open func householdIncome() -> Int {
     var totalIncome : Int = 0
     for member in members {

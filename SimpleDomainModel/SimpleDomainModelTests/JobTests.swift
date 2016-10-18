@@ -7,8 +7,8 @@
 //
 
 import XCTest
-
 import SimpleDomainModel
+
 
 class JobTests: XCTestCase {
   
